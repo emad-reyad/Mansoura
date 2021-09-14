@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Demos\Mansoura</_PublishTargetUrl>
+    <History>True|2021-09-14T11:12:13.4667639Z;False|2021-09-14T15:05:32.5641806+04:00;True|2021-09-14T14:53:35.5697652+04:00;False|2021-09-14T14:51:10.8817413+04:00;False|2021-09-14T14:48:01.3550681+04:00;False|2021-09-14T14:43:37.6806941+04:00;False|2021-09-14T14:42:42.7452368+04:00;</History>
+  </PropertyGroup>
+</Project>
