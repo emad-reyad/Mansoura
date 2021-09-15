@@ -9,7 +9,6 @@ C:\Users\emreyad\source\repos\WebApplication1\Mansoura\bin\Debug\net5.0\ref\Mans
 C:\Users\emreyad\source\repos\WebApplication1\Mansoura\bin\Debug\net5.0\Mansoura.pdb
 C:\Users\emreyad\source\repos\WebApplication1\Mansoura\bin\Debug\net5.0\Mansoura.Views.dll
 C:\Users\emreyad\source\repos\WebApplication1\Mansoura\bin\Debug\net5.0\Mansoura.Views.pdb
-C:\Users\emreyad\source\repos\WebApplication1\Mansoura\obj\Debug\net5.0\Mansoura.csprojAssemblyReference.cache
 C:\Users\emreyad\source\repos\WebApplication1\Mansoura\obj\Debug\net5.0\Mansoura.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\emreyad\source\repos\WebApplication1\Mansoura\obj\Debug\net5.0\Mansoura.AssemblyInfoInputs.cache
 C:\Users\emreyad\source\repos\WebApplication1\Mansoura\obj\Debug\net5.0\Mansoura.AssemblyInfo.cs
@@ -43,3 +42,4 @@ C:\Users\emreyad\source\repos\WebApplication1\Mansoura\obj\Debug\net5.0\ref\Mans
 C:\Users\emreyad\source\repos\WebApplication1\Mansoura\obj\Debug\net5.0\Mansoura.pdb
 C:\Users\emreyad\source\repos\WebApplication1\Mansoura\obj\Debug\net5.0\Mansoura.genruntimeconfig.cache
 C:\Users\emreyad\source\repos\WebApplication1\Mansoura\obj\Debug\net5.0\Mansoura.csproj.CopyComplete
+C:\Users\emreyad\source\repos\WebApplication1\Mansoura\obj\Debug\net5.0\Mansoura.csprojAssemblyReference.cache
